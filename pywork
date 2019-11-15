@@ -34,4 +34,3 @@ print(status_code)
 print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
 
 print(titles_urls)
-os.system("pause")
